@@ -523,7 +523,7 @@ p.caption {
   background: #d6eef2
 }
 
-.p-home .section-use-cases .quote cite p,
+.p-home .section-use-cases .quote div p,
 .promo .col-copy :last-child {
   margin: 0
 }
@@ -1633,7 +1633,7 @@ form input:not([type=checkbox]) {
   text-indent: -.25em
 }
 
-.p-home .section-use-cases .quote cite {
+.p-home .section-use-cases .quote div {
   color: #68737d;
   display: block;
   font-style: normal;
